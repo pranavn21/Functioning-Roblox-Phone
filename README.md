@@ -1,7 +1,7 @@
 # Functioning-Roblox-Phone
 Working phone developed in Roblox Studio with working call/receiving w/ chat filtering, notes, music w/ settings, etc. Specifically made for the Roblox metaverse, and is compatible in any Roblox game/experience.
 
-**The development for this project began in mid-2020, and concluded on December 15, 2020.**
+**The development for this project began in Feb 15, 2020, and concluded on December 15, 2020.**
 
 The direct link to the Roblox model uploaded on the Roblox Assets Library can be found by clicking [here](https://www.roblox.com/library/4694978053/iExotic-11-Pro-Max)
 
